@@ -7,7 +7,7 @@ function Header() {
     <div className='p-5 border-b shadow-sm'>
         <div className='flex items-center justify-between'>
             <Image src={'/logo.svg'} width={180} height={50} alt="logo" />
-            <Button>Get Started</Button>
+            <Button className="hover:bg-gray-700">Get Started</Button>
         </div>
     </div>
   )
