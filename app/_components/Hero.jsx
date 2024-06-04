@@ -13,7 +13,7 @@ function Hero() {
           </h1>
 
           <p className="mt-4 sm:text-xl/relaxed">
-          Effortlessly Design, Customize, and Deploy Forms with Advanced AI Technology!
+          Effortlessly Design, Customize and Deploy Forms with Advanced AI Technology!
           </p>
 
           <div className="mt-8 flex flex-wrap justify-center gap-4">
