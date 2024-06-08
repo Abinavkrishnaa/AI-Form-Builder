@@ -5,7 +5,9 @@ import SideNav from './_components/SideNav'
 function DashboardLayout({children}) {
   return (
     <SignedIn>
-    <div>
+
+{      //layout
+}    <div>
         <div className='md:w-64 fixed'>
             <SideNav />
         </div>
